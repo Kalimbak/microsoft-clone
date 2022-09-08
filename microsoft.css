@@ -26,10 +26,26 @@ div{
 
 }
 .first{
-    
+    background-color: #f1eded;
     padding: 2rem 3rem;
     display: flex;
 }
 .foreground{
     padding: 5rem 3rem;
+}
+.surface {
+    padding: 1rem 0;
+    border: #0067b8;
+}
+.surface a{
+    padding: 1rem 0;
+}
+.surface button{
+    background-color: #0067b8;
+    border-color: transparent;
+    color: #fff;
+    margin: 8px 24px 8px 0;
+    font-size: 16px , ;
+    padding: 10px 12px;
+
 }
