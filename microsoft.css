@@ -25,3 +25,11 @@ div{
     padding: 7rem 10rem;
 
 }
+.first{
+    
+    padding: 2rem 3rem;
+    display: flex;
+}
+.foreground{
+    padding: 5rem 3rem;
+}
