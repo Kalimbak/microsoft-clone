@@ -1,0 +1,27 @@
+/* @media only screen and (max-width: 860px) {
+    .
+} */
+
+.SECOND{
+    /* height: 30px; */
+    background-color: #0067b8!important;
+    color: #fff;
+}
+.Alert{
+    min-height: 3.625rem;
+    position: relative;
+    padding: 0.1rem 15rem;
+    text-decoration: solid;
+}
+div{
+    display: block;
+}
+.business ul li{
+    display: flex;
+    height: 10px;
+}
+.business ul{
+    display:flex;
+    padding: 7rem 10rem;
+
+}
